@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HusainIQ
 - 👀 I’m interested in flutter and Unity.
-- 🌱 I’m currently learning Web devolopment.
+- 🌱 I’m currently learning Web development.
 - 📫 How to reach me : husainaltwejre@gmail.com 
